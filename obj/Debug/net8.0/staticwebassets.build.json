@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G8E7q3lIZoSvc2Nz9CdT5GHPUEWIBy0q6kGD5w/MKL4=",
+  "Source": "ReturnOrdersApi",
+  "BasePath": "_content/ReturnOrdersApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

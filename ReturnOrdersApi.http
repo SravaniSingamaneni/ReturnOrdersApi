@@ -1,0 +1,6 @@
+@ReturnOrdersApi_HostAddress = http://localhost:5166
+
+GET {{ReturnOrdersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
